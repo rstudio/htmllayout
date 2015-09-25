@@ -1,0 +1,10 @@
+Package: htmllayout
+Type: Package
+Title: HTML Layout
+Version: 0.0.1
+Author: Yihui Xie
+Maintainer: Yihui Xie <xie@yihui.name>
+Description: More about what it does (maybe more than one line)
+Imports: htmltools
+License: GPL
+LazyData: TRUE
